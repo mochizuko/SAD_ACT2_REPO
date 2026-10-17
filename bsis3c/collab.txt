@@ -1,11 +1,9 @@
 Hi, Kaye! Welcome
-<<<<<<< HEAD
 Hello, Lance! Grazie
 
 Added this line as the Owner
 
-=======
-Hello, Lance! Grazie.
 
+Hello, Lance! Grazie.
 Yallah
->>>>>>> 09fa7bd6e894951779fa741b05ead8fb39dea5ee
+
